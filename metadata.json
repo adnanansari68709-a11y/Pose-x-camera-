@@ -1,0 +1,6 @@
+{
+  "name": "POSEX",
+  "description": "Real-time AI pose camera with human landmark tracking, reference overlays, visual matching guidance, and photo capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
